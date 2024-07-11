@@ -6,8 +6,6 @@
   <text x="25" y="70" font-size="30" font-family="Arial" fill="black">SVG</text>
 
   <!-- Circle: -->
-  <circle cx="125" cy="175" r="20" stroke="red" fill="transparent" stroke-width="5"/>
-    <text x="20" y="125" font-size="18" font-family="Arial" fill="black">SVG</text>
 
   <!-- Triangle: -->
   <polygon points="60 150 90 110 120 150"
